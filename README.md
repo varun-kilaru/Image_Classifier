@@ -1,4 +1,5 @@
 # Image_Classifier
+<pre>
 A simple Convnet classifier.
 
 
@@ -25,3 +26,4 @@ The folder structure should be as:
  [4] Run create_img_data.py.
  [5] Run mainCNN.py.
  [6] Run predict.py.
+</pre>
