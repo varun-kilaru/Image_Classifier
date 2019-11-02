@@ -4,7 +4,7 @@ A simple Convnet classifier.
 
 The folder structure should be as:
 
---[Your folder] \n
+--[Your folder]
  |
  |---> [+]train_dataset
  |
